@@ -94,6 +94,13 @@
                     <center> <input type="submit" class="btn btn-info btn-lg" name="signup" value="Signup"/></center>  
             
             </form> </div>
+            <form action="main.php" method="post">
+                    <br> <center> <input type="submit" class="btn btn-info btn-lg" name="Home" value="Home"/></center> 
+                    <?php if(isset($_POST['Home'])){
+                                header("Location: main.php");
+
+                    } 
+                    ?>
         </div>
  </div>
 </div>

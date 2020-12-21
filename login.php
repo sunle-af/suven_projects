@@ -80,8 +80,14 @@
                                             
                     </form>
                 
-                </div>    <br> <center> <input type="submit" class="btn btn-info btn-lg" name="Home" value="Home"/></center> 
-                            
+                </div>  <form action="main.php" method="post">
+                    <br> <center> <input type="submit" class="btn btn-info btn-lg" name="Home" value="Home"/></center> 
+                    <?php if(isset($_POST['Home'])){
+                                header("Location: main.php");
+
+                    } 
+                    ?>
+                </form>  
             </div>
         </div>
     </div>

@@ -82,23 +82,23 @@
 
   <div class ="row">
         <div class="col-sm-6" style = "Left:0.5%;">
-          <img src= "images/logoM.png" class="img-rounded" title="logo" width="650px" height="560px">      <!--logo image-->
+          <img src= "images/2.jpg" class="img-rounded" title="logo" width="750px" height="560px">      <!--logo image-->
 
-          <div id="centered1" class="centred"><h3 style="color:red;">
+          <div id="centered1" class="centred"><h3 style="color:white;">
           <span class="glyphicon glyplhicon-search"></span>&nbsp&nbsp<strong>Your Interests.</strong>
           </h3></div>
 
-          <div id="centered2" class="centred"><h3 style="color:red;">
+          <div id="centered2" class="centred"><h3 style="color:white;">
           <span class="glyphicon glyplhicon-search"></span>&nbsp&nbsp<strong>Hear What people are talking about.</strong>
           </h3></div> 
 
-          <div id="centered3" class="centred"><h3 style="color:red;">
+          <div id="centered3" class="centred"><h3 style="color:white;">
           <span class="glyphicon glyplhicon-search"></span>&nbsp&nbsp<strong>Join Conversation.</strong>
           </h3></div> 
 
          </div>
          <div class ="col-sm-6" style="left:8%;">
-         <img src= "images/logoM.png" class="img-rounded" title="logo" width="80px" height="80px">      <!--logo image-->
+         <img src= "images/logoM.png" class="img-rounded" title="logo" width="300px" height="80px">      <!--logo image-->
         <h2><strong>See what's happening in <br> the world right now.</strong></h2></br>
         <h4><strong>Join today <br> the world right now</strong></h4></br>
         
